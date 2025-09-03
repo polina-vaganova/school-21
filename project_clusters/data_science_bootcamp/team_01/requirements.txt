@@ -1,0 +1,8 @@
+numpy
+httpx
+pandas
+xgboost
+scikit-learn
+python-dotenv
+requests
+bs4
